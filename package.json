@@ -37,6 +37,7 @@
     "@node-rs/bcrypt": "^1.6.0",
     "@prisma/client": "^3.11.0",
     "@reach/alert": "^0.16.0",
+    "@remix-run/node": "^1.7.3",
     "@remix-run/react": "*",
     "@remix-run/serve": "*",
     "marked": "^4.1.1",
